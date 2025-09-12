@@ -29,18 +29,19 @@ This table lists all lab session and coding challenge session incl. the launcher
 | Mon, Sep. 15            |   **Lab 1**     | Lab 102 (Python Basics)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
 | Mon, Sep. 15           |   **Lab 1**     | Lab 103 (Numpy, Pillow and Matplotlib)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_103/lab_103_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_103%2Flab_103_notebook.ipynb)|
 | Mon, Sep. 22            | **CC 1**       | Coding Challenge - Kick-Off & EuroSAT          | - | -|
-| Mon, Oct. 6            | **Lab 2**       | Support Vector Machines & Iris       | [TBA] | [TBA] |
-| Mon, Oct. 13            | **Lab 3**   | Introduction to PyTorch         | [TBA] | [TBA] |
-| Mon, Oct. 13            | **Lab 3**   | Multi-Layer Perceptron      | [TBA] | [TBA] |
-| Mon, Oct. 20            | **Lab 4**   | Custom Datasets in PyTorch    | [TBA] | [TBA] |
-| Mon, Oct. 20            | **Lab 4**   | Convolutional Neural Networks (CNNs) & CIFAR10     | [TBA] | [TBA] |
+| Mon, Sep. 29            | **Lab 2**       | Support Vector Machines & Iris       | [TBA] | [TBA] |
+| Mon, Oct. 6            | **Lab 3**   | Introduction to PyTorch         | [TBA] | [TBA] |
+| Mon, Oct. 6            | **Lab 3**   | Multi-Layer Perceptron      | [TBA] | [TBA] |
+| Mon, Oct. 13            | **Lab 4**   | Custom Datasets in PyTorch    | [TBA] | [TBA] |
+| Mon, Oct. 13            | **Lab 4**   | Convolutional Neural Networks (CNNs) & CIFAR10     | [TBA] | [TBA] |
+| Mon, Oct. 20            | **Lab 5**   | Recurrent Neural Networks (RNNs + LSTMs) - Text Generation        | [TBA] | [TBA] |
+| Mon, Oct. 20            | **Lab 5**   | LSTMs - Stock Price Prediction       | [TBA] | [TBA] |
 | -                       | -       | Semester Break                         | -   | -   |
-| Mon, Nov. 8            | **Lab 5**   | Recurrent Neural Networks (RNNs + LSTMs) - Text Generation        | [TBA] | [TBA] |
-| Mon, Nov. 8            | **Lab 5**   | LSTMs - Stock Price Prediction       | [TBA] | [TBA] |
-| Mon, Nov. 17           | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
-| Mon, Nov. 24            | **Lab 6**   | Attention              | [TBA] | [TBA] |
-| Mon, Dec. 1            | **Lab 7**   | K-Means, EM Clustering & Iris               | [TBA] | [TBA] |
-| Mon, Dec. 8            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [TBA] | [TBA] |
+| Mon, Nov. 10           | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
+| Mon, Nov. 17            | **Lab 6**   | Attention              | [TBA] | [TBA] |
+| Mon, Nov. 24            | **Lab 7**   | K-Means, EM Clustering & Iris               | [TBA] | [TBA] |
+| Mon, Dec. 1            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [TBA] | [TBA] |
+| Mon, Dec. 8            | **Lab 9**   | Transfer Learning & SSL  | [TBA] | [TBA] |
 | Mon, Dec. 15            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
 
 
